@@ -2,6 +2,15 @@
 
 Port [gmediarender-resurrect](https://github.com/hzeller/gmrender-resurrect) to OpenWrt.
 
+
+
+1.下载源码 https://github.com/hzeller/gmrender-resurrect
+2.打包成 openwrt 可以识别的包
+3.make menuconfig 选中 gmediarender 
+4.make V=s
+
+
+
 ## HOW TO
 
 	cd ~
